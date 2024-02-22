@@ -1,5 +1,7 @@
+
+
 <h1 align="center">Hi 👋, I'm HARSH KUMAR</h1>
-<h3 align="center">A passionate full Stack developer from India</h3>
+<h3 align="center">A passionate MERN Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg">
 
 
