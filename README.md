@@ -89,9 +89,9 @@
 - **Machine Learning & Deep Learning**
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&theme=radical&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&theme=radical&show_icons=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshkumar808348&theme=radical&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=harshkumar808348&theme=radical&show_icons=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=harshkumar808348&theme=radical)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=radical&no-frame=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=harshkumar808348&theme=radical&no-frame=true&margin-w=4)
