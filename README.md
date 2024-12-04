@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm HARSH KUMAR</h1>
-<h3 align="center">A passionate MERN Stack & Machine Learning Developer from India</h3>
+
+<h3 align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7CC19&width=435&lines=MERN+Stack+Developer;Full+Stack+Developer;Machine+Learning+Developer;Deep+Learning+Developer" alt="Typing SVG" />
+    </a>
+</h3>
 
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg">
 
