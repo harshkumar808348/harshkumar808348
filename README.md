@@ -95,3 +95,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=harshkumar808348&theme=radical&no-frame=true&margin-w=4)
+ <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=teal&amp;size=20&amp;lines=Thanks!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+my+github+valley....👨🏻‍💻;" style="width: 100%;">
+
+<p align="center"><img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"></p>
