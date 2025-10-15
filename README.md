@@ -1,100 +1,226 @@
-<h1 align="center">Hi 👋, I'm HARSH KUMAR</h1>
+# Hi there, I'm Harsh Kumar 👋
 
-<h3 align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7CC19&width=435&lines=MERN+Stack+Developer;Full+Stack+Developer;Machine+Learning+Developer;Deep+Learning+Developer" alt="Typing SVG" />
-    </a>
-</h3>
-
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg">
-
-## 🖥️ Technical Skills
-
-### Languages and Technologies:
 <div align="center">
   
-<!-- MERN Stack -->
-<a href="https://reactjs.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="100" height="100" style="margin: 10px; padding: 20px; background-color: white; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
-</a>
-<a href="https://expressjs.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="100" height="100" style="margin: 10px; padding: 20px; background-color: white; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
-</a>
-<a href="https://nodejs.org" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="100" height="100" style="margin: 10px; padding: 20px; background-color: white; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
-</a>
-<a href="https://www.mongodb.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="100" height="100" style="margin: 10px; padding: 20px; background-color: white; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
-</a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Machine+Learning+Engineer;Full+Stack+Developer;Deep+Learning+Enthusiast)](https://git.io/typing-svg)
 
-<!-- Web Technologies -->
-<a href="https://www.w3.org/html/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="100" height="100" style="margin: 10px; padding: 20px; background-color: white; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
-</a>
-<a href="https://www.w3schools.com/css/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="100" height="100" style="margin: 10px; padding: 20px; background-color: white; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="100" height="100" style="margin: 10px; padding: 20px; background-color: white; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
-</a>
-
-<!-- Programming Languages -->
-<a href="https://www.python.org" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="100" height="100" style="margin: 10px; padding: 20px; background-color: white; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
-</a>
-<a href="https://www.java.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="100" height="100" style="margin: 10px; padding: 20px; background-color: white; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
-</a>
-<a href="https://www.cprogramming.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="100" height="100" style="margin: 10px; padding: 20px; background-color: white; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
-</a>
-
-<!-- Databases -->
-<a href="https://www.mysql.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="100" height="100" style="margin: 10px; padding: 20px; background-color: white; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
-</a>
-<a href="https://www.postgresql.org" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="100" height="100" style="margin: 10px; padding: 20px; background-color: white; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
-</a>
-
-<!-- Tools -->
-<a href="https://jupyter.org/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="100" height="100" style="margin: 10px; padding: 20px; background-color: white; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
-</a>
 </div>
 
-<br>
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshkumar808348)
 
-<!-- Add scroll animation -->
-<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
-<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+</div>
 
-<script>
-  AOS.init();
-</script>
+---
 
-## 🎓 Education
-- **Vellore Institute of Technology (VIT)**
-  - Pursuing Computer Science & Engineering
+## 🚀 About Me
 
-## 💻 Development Focus
-- Full Stack Web Development (MERN Stack)
-- Machine Learning
-- Deep Learning
+I'm a passionate **Computer Science & Engineering student** at **Vellore Institute of Technology (VIT)**, specializing in Full Stack Development and Machine Learning. I love building scalable web applications and exploring the intersection of AI and web technologies.
 
-## 🚀 Skills Highlight
-- **Web Technologies**: React, Node.js, Express.js, MongoDB
-- **Programming Languages**: Python, JavaScript, Java, C++
-- **Tools**: Jupyter Lab, WordPress
-- **Machine Learning & Deep Learning**
+- 🔭 Currently working on MERN Stack projects and ML models
+- 🌱 Learning advanced Deep Learning techniques and Cloud Technologies
+- 👯 Open to collaborate on innovative web and ML projects
+- 💬 Ask me about React, Node.js, Python, Machine Learning
+- ⚡ Fun fact: I debug with console.log() and I'm not ashamed!
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshkumar808348&theme=radical&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=harshkumar808348&theme=radical&show_icons=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=harshkumar808348&theme=radical)
+---
+
+## 🛠️ Tech Stack
+
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Machine Learning & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshkumar808348&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshkumar808348&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshkumar808348&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+</div>
+
+---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=harshkumar808348&theme=radical&no-frame=true&margin-w=4)
- <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=teal&amp;size=20&amp;lines=Thanks!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+my+github+valley....👨🏻‍💻;" style="width: 100%;">
 
-<p align="center"><img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"></p>
+<div align="center">
+  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=harshkumar808348&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  
+[![Harsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harshkumar808348&theme=tokyo-night&hide_border=true)](https://github.com/harshkumar808348)
+
+</div>
+
+---
+
+## 💼 Featured Projects
+
+### 🔥 Project Highlights
+
+<details>
+<summary><b>🌐 Full Stack Web Application</b></summary>
+<br>
+A comprehensive MERN stack application featuring user authentication, real-time updates, and responsive design.
+
+**Tech Stack:** React, Node.js, Express, MongoDB, JWT
+
+**Key Features:**
+- User authentication with JWT
+- RESTful API design
+- Responsive UI with modern design
+- Real-time data synchronization
+
+[View Project →](#)
+</details>
+
+<details>
+<summary><b>🤖 Machine Learning Project</b></summary>
+<br>
+An ML model for predictive analytics using advanced algorithms and data preprocessing techniques.
+
+**Tech Stack:** Python, TensorFlow, Pandas, NumPy, Scikit-learn
+
+**Key Features:**
+- Data preprocessing pipeline
+- Model training and evaluation
+- Visualization dashboards
+- Deployment ready
+
+[View Project →](#)
+</details>
+
+<details>
+<summary><b>📱 Responsive Web Dashboard</b></summary>
+<br>
+A modern, interactive dashboard for data visualization and management.
+
+**Tech Stack:** React, Chart.js, TailwindCSS, Express
+
+**Key Features:**
+- Interactive charts and graphs
+- Real-time data updates
+- Mobile-first design
+- Dark mode support
+
+[View Project →](#)
+</details>
+
+---
+
+## 🎯 Current Focus
+
+```javascript
+const harsh = {
+    location: "Ashta, Madhya Pradesh, India",
+    education: "VIT - Computer Science & Engineering",
+    currentFocus: ["Full Stack Development", "Machine Learning", "Deep Learning"],
+    learningNext: ["Cloud Computing", "DevOps", "System Design"],
+    askMeAbout: ["Web Dev", "ML", "Tech", "Career Advice"],
+    funFact: "I write bugs for a living, then debug them for free! 🐛"
+};
+```
+
+---
+
+## 📫 Let's Connect
+
+I'm always excited to collaborate on interesting projects or discuss technology! Feel free to reach out:
+
+<div align="center">
+
+**📧 Email:** your.email@example.com  
+**💼 LinkedIn:** [Connect with me](https://linkedin.com/in/yourprofile)  
+**🌐 Portfolio:** [Visit my website](https://yourportfolio.com)  
+**🐦 Twitter:** [@yourhandle](https://twitter.com/yourhandle)
+
+</div>
+
+---
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Building Scalable MERN Applications](#)
+- [Machine Learning Best Practices](#)
+- [JavaScript Tips and Tricks](#)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 💡 Random Dev Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## 👀 Profile Views
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=harshkumar808348&color=blueviolet&style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 Show some ❤️ by starring some of my repositories!
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+**Thanks for visiting! See you next time! 👨‍💻**
+
+</div>
