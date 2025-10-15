@@ -533,8 +533,8 @@ const harsh: Developer = {
 </table>
 
 **💌 Email:** your.email@example.com  
-**🌐 Portfolio:** [harshkumar.dev](https://yourportfolio.com)  
-**📍 Location:** Ashta, Madhya Pradesh, India  
+**🌐 Portfolio:** [harshkumar.vercel.app](https://yourportfolio.com)  
+**📍 Location:** Patna, Bihar, India  
 **🕐 Timezone:** IST (GMT+5:30)  
 
 **⏰ Available for:** Freelance Projects | Internships | Full-Time Opportunities | Collaborations
