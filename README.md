@@ -480,7 +480,7 @@ const harsh: Developer = {
 <table>
   <tr>
     <td align="center">
-      <a href="mailto:your.email@example.com">
+      <a href="mailto:harshkumar808348@gmail.com">
         <img src="https://img.icons8.com/fluency/96/000000/gmail.png" width="80px" />
         <br><b>Email</b>
       </a>
