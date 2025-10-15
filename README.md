@@ -464,9 +464,7 @@ const harsh: Developer = {
 ## 🐍 Contribution Snake
 
 <div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/harshkumar808348/harshkumar808348/output/github-contribution-grid-snake-dark.svg)
-
+  <img src="https://raw.githubusercontent.com/harshkumar808348/harshkumar808348/output/github-contribution-grid-snake.svg" alt="snake" />
 </div>
 
 ---
