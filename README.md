@@ -2,7 +2,7 @@
 
 # 👋 Welcome to My Digital Universe!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hi%2C+I'm+Harsh+Kumar+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;MERN+Stack+Developer+%7C+ML+Engineer;Building+Tomorrow's+Solutions+Today+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hi%2C+I'm+Harsh+Kumar+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;MERN+Stack+Developer+%7C+ML+Engineer" alt="Typing SVG" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Full%20Stack%20%7C%20AI/ML%20%7C%20Innovation&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
 
